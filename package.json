@@ -60,7 +60,9 @@
     "zustand": "^4.3.8",
     "bufferutil": "^4.0.8",
     "utf-8-validate": "^5.0.10",
-    "sharp": "^0.33.2"
+    "sharp": "^0.33.2",
+    "dompurify": "^3.2.4",
+    "mermaid": "^11.4.0"
   },
   "devDependencies": {
     "@tauri-apps/api": "^2.1.1",
